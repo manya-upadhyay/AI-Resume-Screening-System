@@ -1,0 +1,19 @@
+.main {
+    background-color: #f5f7fa;
+}
+
+h1 {
+    color: #1f77b4;
+    text-align: center;
+}
+
+.stButton>button {
+    width: 100%;
+    border-radius: 10px;
+    font-size: 18px;
+    height: 50px;
+}
+
+.stProgress > div > div > div {
+    background-color: #4CAF50;
+}
