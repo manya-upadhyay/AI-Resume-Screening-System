@@ -1,5 +1,8 @@
 # AI Resume Screening System
 
+## 🚀 Live Demo
+🌐 Streamlit App: https://ai-resume-screening-system-3de28ft6wakbupmiw8cndy.streamlit.app/
+
 ## Overview
 AI Resume Screening System is a Machine Learning based web application that analyzes resumes and provides intelligent insights. It predicts the resume category, calculates Resume Score and ATS Score, detects skills, recommends missing skills, estimates company match, generates AI suggestions, and provides Gemini AI based resume review.
 
